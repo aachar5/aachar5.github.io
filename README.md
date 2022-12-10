@@ -42,3 +42,19 @@
 <h3 id="conda-environment">Conda Environment</h3>
 <p>The environment.yml file is shown to define the environment needed to run all code successfully.</p>
 
+<h1 id="references">References</h1>
+<p>Archibald, A. T., Folberth, G., Wade, D. C., & Scott, D. (2017). A world avoided: Impacts of changes in anthropogenic emissions on the burden and effects of air pollutants in Europe and North America. Faraday Discussions, 200(0), 475–500. https://doi.org/10.1039/C7FD00004A/</p>
+
+<p>Ma, S., & Tong, D. Q. (2022). Neighborhood Emission Mapping Operation (NEMO): A 1-km anthropogenic emission dataset in the United States. Scientific Data, 9(1), Article 1. https://doi.org/10.1038/s41597-022-01790-9</p>
+
+<p>ESMPy: ESMF Python Regridding Interface. (n.d.). Earth System Modeling Framework. Retrieved December 10, 2022, from https://www.earthsystemmodeling.org/esmpy/</p>
+
+<p>Knight, J. R.,C. K. Folland, and A. A. Scaife (2006), Climate impacts of the Atlantic Multidecadal Oscillation, Geophys. Res. Lett., 33, L17706, doi:10.1029/2006GL026242.</p>
+
+<p>Pedgley, D. E., &amp; Krishnamurti, T. N. (1976). Structure and Behavior of a Monsoon Cyclone over West Africa, Monthly Weather Review, 104(2), 149-167. Retrieved Dec 1, 2021, from https://journals.ametsoc.org/view/journals/mwre/104/2/1520-0493_1976_104_0149_saboam_2_0_co_2.xml</p>
+
+<h1 id="acknowledgements">Acknowledgements</h1>
+<p>I would like to thank both the CLIM680 instructors Prof. Dirmeyer and Prof. Burls for coding assistance and answering questions, as well as my advisor Prof. Kinter for dataset selection, project inspiration, and interesting discussions this semester.</p>
+
+
+
