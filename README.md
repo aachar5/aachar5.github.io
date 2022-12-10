@@ -14,8 +14,7 @@
 </p>
 
 <p><a href="http://air.csiss.gmu.edu/aq/US01emis/">Link to dataset description</a></p>
-<h3> id="REGRIDDING (SPATIAL INTERPOLATION)</h3>
-
+<h3 id="regriding(spatial interpolation)">Spatial Interpolation</h1>
 <p>My dataset is in irregular grids with 3177 values of Row and 5397 values of column for the corresponding latitudes and longitudes. This means that the latitudes aren't the same for all longitudes and the longitudes aren't the same for all latitudes. So I have re-gridded my data set at first. I used a bilinear regrid method for this. Bilinear interpolation (grid Method.BILINEAR) calculates the value for the destination point as a combination of multiple linear interpolations, one for each dimension of the Grid. This method is simply linear interpolations, first along the x-axis and then along the y-axis. The weighting for the interpolation is given by the area ratio of the four rectangles splitted by the grid node to their area sum.</p>
 
 <h3 id="spatial variation">Spatial Variation</h3>
