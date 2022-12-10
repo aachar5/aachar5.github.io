@@ -17,29 +17,11 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS" />
 <script type="application/ld+json">
-{"url":"https://aachar5.github.io/CLIM680_project/","@type":"WebSite","headline":"EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS","name":"CLIM680_project","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/CLIM680_project/assets/css/style.css?v=3a4ba38eeeeca67eb8456df821e0f743e8c56a2e">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/CLIM680_project/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://aachar5.github.io/CLIM680_project/">CLIM680_project</a></h1>
+   
       
 
-      <h1 id="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS">EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS</h1>
+ <h1 id="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS">EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS</h1>
 <h1 id="by-aashma-acharya">By Aasma Acharya</h1>
 
 <h1 id="introduction">Introduction</h1>
