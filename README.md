@@ -1,27 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS | CLIM680_project</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://aachar5.github.io/CLIM680_project/" />
-<meta property="og:url" content="https://aachar5.github.io/CLIM680_project/" />
-<meta property="og:site_name" content="CLIM680_project" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS" />
-<script type="application/ld+json">
-
-   
-      
-
- <h1 id="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS">EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS</h1>
+<h1 id="EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS">EMISSION MAPPING FOR MULTISPECIES OF ATMOSPHERIC POLLUTANTS OVER THE CONUS</h1>
 <h1 id="by-aashma-acharya">By Aasma Acharya</h1>
 
 <h1 id="introduction">Introduction</h1>
