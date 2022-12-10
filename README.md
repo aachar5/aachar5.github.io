@@ -19,7 +19,8 @@
 <p>My dataset is in irregular grids with 3177 values of Row and 5397 values of column for the corresponding latitudes and longitudes. This means that the latitudes aren't the same for all longitudes and the longitudes aren't the same for all latitudes. So I have re-gridded my data set at first. I used a bilinear regrid method for this. Bilinear interpolation (grid Method.BILINEAR) calculates the value for the destination point as a combination of multiple linear interpolations, one for each dimension of the Grid. This method is simply linear interpolations, first along the x-axis and then along the y-axis. The weighting for the interpolation is given by the area ratio of the four rectangles splitted by the grid node to their area sum.</p>
 
 <h3 id="SPATIAL VARIATION</h3>
-<p>I have looked at the contour plots for the dataset to observe the spatial variation of the variables in my dataset to understand how the emission variation is changing with the space. I couldn't include the temporal variation cause the dataset I had is yearly aggregated. </p>
+
+<p>I have looked at the contour plots for the dataset to observe the spatial variation of the variables in my dataset to understand how the emission variation is changing with the space. I couldn't include the temporal variation cause the dataset I had is yearly aggregated.</p>
 
 <h3 id="FUNCTIONS FOR THE ANALYSIS</h3>
 <p>Xe. Regridder function : I have used one of the ESMF regridding functionality for my dataset. </p>
