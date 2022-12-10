@@ -22,12 +22,12 @@
 
 <p>I have looked at the contour plots for the dataset to observe the spatial variation of the variables in my dataset to understand how the emission variation is changing with the space. I couldn't include the temporal variation cause the dataset I had is yearly aggregated.</p>
 
-<h3 id="FUNCTIONS FOR THE ANALYSIS</h3>
-<p>Xe. Regridder function : I have used one of the ESMF regridding functionality for my dataset. </p>
-<p> X-array-dataset.reset.coords: It changes or reset the coordinates into variables. In this project scenario this function is used to change the lat and lon which was under the data variable section to reset them as coordinates. </p>
+<h3 id="function-creation">Function creation</h3>
+<p>Xe. Regridder function : I have used one of the ESMF regridding functionality for my dataset.</p>
+<p> X-array-dataset.reset.coords: It changes or reset the coordinates into variables. In this project scenario this function is used to change the lat and lon which was under the data variable section to reset them as coordinates.</p>
 <p> X-array.DataArray.to_dataset : It basically converts input dataset to time lagged dataset. It is used for converting a DataArray to a DataSet.</p>
-<p>Arrange() :  It's the function used to return evenly spaced values within the given interval. </p>
-<p>gridlines(): It's simply  used to configure the gridlines. e.t.c </p>
+<p>Arrange() :  It's the function used to return evenly spaced values within the given interval.</p>
+<p>gridlines(): It's simply  used to configure the gridlines.</p>
 
 <p><img src="" alt="Annual averaged emission for the year 2017" /></p>
 
