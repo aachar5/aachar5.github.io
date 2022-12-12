@@ -30,12 +30,12 @@
 <p>Arrange() :  It's the function used to return evenly spaced values within the given interval.</p>
 <p>gridlines(): It's simply  used to configure the gridlines.</p>
 
-<p><img src="" alt="Annual averaged emission for the year 2017" /></p>
+<p><img src="NOX.png" alt="Annual averaged emission for the year 2017" /></p>
 
 
 <h1 id="results-and-analysis">Results and Analysis</h1>
 <h3 id="project-notebook-via-github">Project Notebook via Github</h3>
-<p>Located within my CLIM680-project repository is a series of jupyter notebooks that contain all of the labeled and commented code that was used in my analysis. 
+<p>Located within my aachar5.github.io repository is a series of jupyter notebooks that contain all of the labeled and commented code that was used in my analysis. 
 <a href="https://github.com/aachar52/CLIM680-project/">Link:</a></p>
 
 
@@ -49,9 +49,6 @@
 
 <p>ESMPy: ESMF Python Regridding Interface. (n.d.). Earth System Modeling Framework. Retrieved December 10, 2022, from https://www.earthsystemmodeling.org/esmpy/</p>
 
-<p>Knight, J. R.,C. K. Folland, and A. A. Scaife (2006), Climate impacts of the Atlantic Multidecadal Oscillation, Geophys. Res. Lett., 33, L17706, doi:10.1029/2006GL026242.</p>
-
-<p>Pedgley, D. E., &amp; Krishnamurti, T. N. (1976). Structure and Behavior of a Monsoon Cyclone over West Africa, Monthly Weather Review, 104(2), 149-167. Retrieved Dec 1, 2021, from https://journals.ametsoc.org/view/journals/mwre/104/2/1520-0493_1976_104_0149_saboam_2_0_co_2.xml</p>
 
 
 
