@@ -45,7 +45,6 @@
  <p><img src="PM25.png" alt="Annual averaged emission of PM2.5 for the year 2017" /></p>
  <p>In the west coast significant emission can be observed in the eastern and the western part of southern Idaho.  Similarly, considerable amount of PM2.5 emission over 13 ton/km2/year can be observed in the Kansas City of Missouri. Also, Same level of PM2.5 emission can be seen in the plot where there is Chicago and most southern and central part of Vermont shows significant amount of Pm2.5 emission in the year 2017.<P>
 
-
 <h3 id="conda-environment">Conda Environment</h3>
 <p>The environment.yml file is shown to define the environment needed to run all code successfully.</p>
 
