@@ -47,6 +47,8 @@
 
 <h3 id="conda-environment">Conda Environment</h3>
 <p>The environment.yml file is shown to define the environment needed to run all code successfully.</p>
+ <h1 id="discussion and future Work">Discussion and Future Work</h1>
+ <p>Since the data is on an irregular grid it takes a lot of time to regrid for each variable one by one. The regriding took a lot of time and often collapsed the kernel. This is the challenge that comes up while interpolating irregular grids. The data is only of 2017 yearly averaged and aggregated into a one value representing yearly emission for 2017. If there will be access to aerosol concentration data over the CONUS , correlation analysis can be performed in future to study the changes in anthropogenic aerosol whose precursors are NH3, NOX, CO and PM2.5.  Since this is point source data, it will be better to analyze a specific state emission with the data rather than for a whole state at once.<p>
 
 <h1 id="references">References</h1>
 <p>Archibald, A. T., Folberth, G., Wade, D. C., & Scott, D. (2017). A world avoided: Impacts of changes in anthropogenic emissions on the burden and effects of air pollutants in Europe and North America. Faraday Discussions, 200(0), 475–500. https://doi.org/10.1039/C7FD00004A</p>
