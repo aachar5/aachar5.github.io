@@ -36,13 +36,13 @@
 <a href="[finalsubmission.ipynb](https://github.com/aachar5/aachar5.github.io/blob/a8472adaaa9a440c7bf449b79f8aa2610af54b15/finalsubmission.ipynb)">Link:</a></p>
 
 <p> following are the spatial variabiltity for the anthropogenic pollutant species such as NH3, NOX, CO and PM2.5.<p>
- <p><img src="NH3Ann1.png" alt="Annual averaged emission of NH3 for the year 2017" /></p>
+ <p><img src="NH3.png" alt="Annual averaged emission of NH3 for the year 2017" /></p>
  <p>Higher urban NH3 emissions is observed around LA and Santa Barbara of California more than about 10.8 ton/km2/year. Studies suggest that most of the urban ammonia comes from not only nearby fertilizer use but the vehicular emission also contributes.  Similarly, higher NH3 emissions in Arizona, north-western and south-eastern Iowa, Southern-Minnesota, and south-eastern part of North-Carolina can be observed from the given plot.<P>
 <p><img src="NOX.png" alt="Annual averaged emission of NOX for the year 2017" /></p>
  <p>NOx is one of the precursors for the formation of ozone. The plot is giving point source information for the emission of NOX.  The east-coast seems to have maximum about of the NOx emission for the year 2017. While California and Arizona in the west-coast is showing considerable amount of emission more than 11.7 ton/km2/year. The north-central part of Colorado has a high intensity blob depicting maximum amount of NOX emission for a point source emission.<p>
 <p><img src="CO.png" alt="Annual averaged emission of CO for the year 2017" /></p>
  <p>The CO emission is observed exactly in the same place as NOX emission was observed in north-central Colorado. Similarly, considerable amount of CO emission can be observed around the south of great Salt Lake at Utah. There is a blob observed in central Oklahoma showing emission higher that 185 ton/km2/year. The east-coast is showing higher emission for CO compared to the spatial distribution on the west-coast.<p>
- <p><img src="PM2.5.png" alt="Annual averaged emission of PM2.5 for the year 2017" /></p>
+ <p><img src="PM25.png" alt="Annual averaged emission of PM2.5 for the year 2017" /></p>
  <p>In the west coast significant emission can be observed in the eastern and the western part of southern Idaho.  Similarly, considerable amount of PM2.5 emission over 13 ton/km2/year can be observed in the Kansas City of Missouri. Also, Same level of PM2.5 emission can be seen in the plot where there is Chicago and most southern and central part of Vermont shows significant amount of Pm2.5 emission in the year 2017.<P>
 
 
