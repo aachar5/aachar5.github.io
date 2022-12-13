@@ -33,7 +33,7 @@
 <h1 id="results and analysis">Results and Analysis </h1>
 <h3 id="project-notebook-via-github">Project Notebook via Github</h3>
 <p>Located within my aachar5.github.io repository is a series of jupyter notebooks that contain all of the labeled and commented code that was used in my analysis. 
-<a href="[finalsubmission.ipynb](https://github.com/aachar5/aachar5.github.io/blob/a8472adaaa9a440c7bf449b79f8aa2610af54b15/finalsubmission.ipynb)">Link:</a></p>
+<a href="[finalsubmission.ipynb](https://github.com/aachar5/aachar5.github.io/blob/a8472adaaa9a440c7bf449b79f8aa2610af54b15/finalsubmission.ipynb)">Link:</a>https://github.com/aachar5/aachar5.github.io/blob/a8472adaaa9a440c7bf449b79f8aa2610af54b15/finalsubmission.ipynb</p>
 
 <p> following are the spatial variabiltity for the anthropogenic pollutant species such as NH3, NOX, CO and PM2.5.<p>
  <p><img src="NH3.png" alt="Annual averaged emission of NH3 for the year 2017" /></p>
